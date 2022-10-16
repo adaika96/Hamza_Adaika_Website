@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: AdaikaTech
+  - title: 'CEO'
+    company: 'AdaikaTech'
     company_url: 'adaikatech.com'
     company_logo: org-gc
-    location: El Oued, Algeria.
+    location: 'El Oued, Algeria.'
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
@@ -36,32 +36,32 @@ experience:
         * Manager
         * Developping
 
-  - title: Machine Opearter
-    company: Somadoo
+  - title: 'Machine Opearter'
+    company: 'Somadoo'
     company_url: ''
     company_logo: org-x
-    location: El Oued, Algeria.
+    location: 'El Oued, Algeria.'
     date_start: '2021-09-01'
     date_end: '2021-11-31'
     description: Taught electronic engineering and researched semiconductor physics.
   
-  - title: Assitans
-    company: Adaika Mecanique de Prescion
+  - title: 'Assitans'
+    company: 'Adaika Mecanique de Prescion'
     company_url: ''
     company_logo: org-x
-    location: El Oued, Algeria.
+    location: 'El Oued, Algeria.'
     date_start: '2018-11-01'
     date_end: '2019-06-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 'Taught electronic engineering and researched semiconductor physics.'
   
-  - title: Stager
-    company: SonlaGaz
+  - title: 'Stager'
+    company: 'SonlaGaz'
     company_url: ''
     company_logo: org-x
-    location: El Oued, Algeria.
+    location: 'El Oued, Algeria.'
     date_start: '2018-01-01'
     date_end: '2019-01-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 'Taught electronic engineering and researched semiconductor physics.'
 
 design:
   columns: '2'
