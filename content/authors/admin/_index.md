@@ -1,7 +1,7 @@
 ---
 title: Hamza ADAIKA
 role: Ph.D candidate
-avatar_filename: hamza_photo.jpg
+avatar_filename: ""
 bio: My research interests include distributed Machine Learning, Fault dignosis,
   mobile App Develpoing and programmable matter.
 interests:
