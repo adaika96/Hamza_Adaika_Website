@@ -21,19 +21,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/hamza-adaika-74555ab3/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: El Oued Universty
+    url: https://www.univ-eloued.dz/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Control and Electric Machine
+      institution: Institute of Science and Technology
+      year: ""
+    - course: MEng in Electrical Control
+      institution: Institute of Science and Technology
+      year: 2021
+    - course: BSc in Electrical engineering
+      institution: Institute of Science and Technology
+      year: 2018
 superuser: true
 last_name: Bighetti
 highlight_name: true
