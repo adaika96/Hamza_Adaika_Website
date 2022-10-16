@@ -5,8 +5,8 @@ bio: My research interests include distributed Machine Learning, Fault dignosis,
   mobile App Develpoing and programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Fault Dignosis
+  - Information Fusion
 social:
   - icon: envelope
     icon_pack: fas
