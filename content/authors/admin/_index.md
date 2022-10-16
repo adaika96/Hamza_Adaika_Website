@@ -1,8 +1,8 @@
 ---
 title: Hamza ADAIKA
 role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include distributed Machine Learning, Fault dignosis,
+  mobile App Develpoing and programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
