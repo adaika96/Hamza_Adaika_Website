@@ -23,26 +23,44 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: GenCoin
-    company_url: ''
+    company: AdaikaTech
+    company_url: 'adaikatech.com'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: El Oued, Algeria.
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Analysing
-        * Modelling
-        * Deploying
+        * Manager
+        * Developping
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Machine Opearter
+    company: Somadoo
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: El Oued, Algeria.
+    date_start: '2021-09-01'
+    date_end: '2021-11-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+  
+  - title: Assitans
+    company: Adaika Mecanique de Prescion
+    company_url: ''
+    company_logo: org-x
+    location: El Oued, Algeria.
+    date_start: '2018-11-01'
+    date_end: '2019-06-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+  
+  - title: Stager
+    company: SonlaGaz
+    company_url: ''
+    company_logo: org-x
+    location: El Oued, Algeria.
+    date_start: '2018-01-01'
+    date_end: '2019-01-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
