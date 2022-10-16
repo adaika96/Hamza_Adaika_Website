@@ -45,23 +45,6 @@ experience:
     date_end: '2021-11-31'
     description: Taught electronic engineering and researched semiconductor physics.
   
-  - title: 'Assitans'
-    company: 'Adaika Mecanique de Prescion'
-    company_url: ''
-    company_logo: org-x
-    location: 'El Oued, Algeria.'
-    date_start: '2018-11-01'
-    date_end: '2019-06-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
-  
-  - title: 'Stager'
-    company: 'SonlaGaz'
-    company_url: ''
-    company_logo: org-x
-    location: 'El Oued, Algeria.'
-    date_start: '2018-01-01'
-    date_end: '2019-01-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
 
 design:
   columns: '2'
