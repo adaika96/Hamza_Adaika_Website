@@ -26,7 +26,7 @@ experience:
     company: 'AdaikaTech'
     company_url: 'adaikatech.com'
     company_logo: org-gc
-    location: 'El Oued, Algeria.'
+    location: El Oued, Algeria
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
@@ -40,7 +40,7 @@ experience:
     company: 'Somadoo'
     company_url: ''
     company_logo: org-x
-    location: 'El Oued, Algeria.'
+    location: El Oued, Algeria
     date_start: '2021-09-01'
     date_end: '2021-11-31'
     description: Taught electronic engineering and researched semiconductor physics.
